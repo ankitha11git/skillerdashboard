@@ -1,5 +1,5 @@
-print('hi,iam ankitha')
-a=15
-b=20
+print('hi,iam Rishika')
+a=40
+b=40
 c=a+b
 print(c)
