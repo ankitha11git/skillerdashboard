@@ -14,3 +14,4 @@ plt.title("Simple Line Plot using Matplotlib")
 
 # Show the plot
 plt.show()
+print("I did a project")
